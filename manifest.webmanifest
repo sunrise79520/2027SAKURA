@@ -1,0 +1,12 @@
+{
+  "name": "2027 花開海峽，搭船去追春",
+  "short_name": "花開海峽",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff7f8",
+  "theme_color": "#b95f78",
+  "lang": "zh-TW",
+  "description": "2027 釜山、鎮海、慶州、福岡 12 日旅行 App"
+}
