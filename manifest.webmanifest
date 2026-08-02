@@ -1,12 +1,13 @@
 {
   "name": "2027 花開海峽，搭船去追春",
   "short_name": "花開海峽",
+  "description": "2027 釜山・大邱・鎮海・慶州・福岡 12日旅行手冊",
   "start_url": "./index.html",
-  "scope": "./",
   "display": "standalone",
-  "orientation": "portrait-primary",
   "background_color": "#fff7f8",
-  "theme_color": "#b95f78",
-  "lang": "zh-TW",
-  "description": "2027 釜山、鎮海、慶州、福岡 12 日旅行 App"
+  "theme_color": "#e86f91",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
 }
